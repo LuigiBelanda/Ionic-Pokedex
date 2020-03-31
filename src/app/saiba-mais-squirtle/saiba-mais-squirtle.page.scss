@@ -1,0 +1,82 @@
+.title {
+    text-align: center;
+    color: rgb(0, 217, 255);
+}
+
+.linha {
+    border-bottom: 3px solid transparent;
+    border-image: linear-gradient(to right, #5433ff 0%, #20bdff 100%, #a5fecb 0%);
+    border-image-slice: 3
+}
+
+.toolbar_preta {
+    --background: rgb(15, 15, 15);
+}
+
+.fundo_geral {
+    --background:rgb(35, 35, 35);
+}
+
+.button_squirtle {
+    --background: linear-gradient(to right, #5433ff, #20bdff, #a5fecb);
+    color: black;
+}
+
+.barra_progresso {
+    --progress-background:  rgb(0, 217, 255);
+    //--buffer-background: green;
+    --background: rgb(0, 26, 255);
+}
+
+.button_text_water {
+    --background: rgb(25, 0, 255);
+    color: yellow;
+    height: 17px;
+}
+
+.tamanho_texto {
+    width: auto;
+    text-align: center;
+}
+
+.cor_texto {
+    color: white;
+}
+
+.origem_text {
+    text-align: center;
+    color: rgb(0, 217, 255);
+}
+
+.nomes {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+.imagens_centro {
+    text-align: center;
+}
+
+.text_num_pokedex {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.cor_azul_text {
+    color: rgb(0, 217, 255);
+    font-style: oblique;
+}
+
+.grid_center {
+    text-align: center;
+}
+
+.first_col {
+    color: white;
+}
+
+.second_col {
+    color: rgb(0, 217, 255);
+}

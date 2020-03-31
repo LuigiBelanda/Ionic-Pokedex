@@ -1,0 +1,119 @@
+.title {
+    text-align: center;
+    color: greenyellow;
+}
+
+.linha {
+    border-bottom: 3px solid transparent;
+    border-image: linear-gradient(to right, rgb(200, 255, 0) 0%, rgb(0, 195, 255) 100%);
+    border-image-slice: 3
+}
+
+.toolbar_preta {
+    --background: rgb(15, 15, 15);
+}
+
+.fundo_geral {
+    --background:rgb(35, 35, 35);
+}
+
+.texto_geral {
+    color: yellow;
+}
+
+
+
+
+
+                .text_red {
+                    color: red;
+                    font-style: italic;
+                    font-size: 18px;
+                }
+
+                .text_green {
+                    color: rgb(3, 179, 3);
+                    font-style: italic;
+                    font-size: 18px;
+                }
+
+                .text_blue {
+                    color: rgb(0, 195, 255);
+                    font-style: italic;
+                    font-size: 18px;
+                }
+
+                .text_yellow {
+                    color: yellow;
+                    font-style: italic;
+                    font-size: 18px;
+                }
+
+                .text_grey {
+                    color: rgb(207, 126, 5);
+                    font-style: italic;
+                    font-size: 18px;
+                }
+
+
+
+
+
+.fundo_vermelho {
+    background: red;
+    color: yellow;
+}
+
+.fundo_verde {
+    background: rgb(3, 179, 3);
+    color: yellow;
+}
+
+.fundo_azul {
+    background: blue;
+    color: yellow;
+}
+
+.fundo_amarelo {
+    background: yellow;
+    color: black;
+}
+
+.fundo_cinza {
+    background: rgb(207, 126, 5);
+    color: yellow;
+}
+
+
+
+.button_charmander {
+    --background: linear-gradient(to right, #f12711, #f5af19);
+    color: black;
+}
+
+.button_rayquaza {
+    //--background: linear-gradient(to right, #11998e, #38ef7d);
+    --background: linear-gradient(to right, #688308, #10c510);
+    color: black;
+}
+
+.button_articuno {
+    --background: linear-gradient(to right, #5433ff, #20bdff, #a5fecb);
+    color: black;
+}
+
+.button_pikachu {
+    --background: linear-gradient(to right, #f7ff00, #db36a4);
+    color: black;
+}
+
+.button_onix {
+    --background: linear-gradient(to right, rgb(207, 126, 5), #afa22b);
+    color: rgb(0, 0, 0);
+}
+
+.barra_progresso {
+    --progress-background:  rgb(255, 251, 0);
+    //--buffer-background: green;
+    --background: rgb(0, 140, 255);
+}

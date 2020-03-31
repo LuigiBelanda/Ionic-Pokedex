@@ -1,0 +1,82 @@
+.title {
+    text-align: center;
+    color: rgb(251, 255, 0);
+}
+
+.linha {
+    border-bottom: 3px solid transparent;
+    border-image: linear-gradient(to right, rgb(255, 251, 0) 0%, rgb(255, 153, 0) 100%);
+    border-image-slice: 3
+}
+
+.toolbar_preta {
+    --background: rgb(15, 15, 15);
+}
+
+.fundo_geral {
+    --background:rgb(35, 35, 35);
+}
+
+.button_pikachu {
+    --background: linear-gradient(to right, #f7ff00, #db36a4);
+    color: black;
+}
+
+.barra_progresso {
+    --progress-background:  rgb(255, 153, 0);
+    //--buffer-background: green;
+    --background: rgb(251, 255, 0);
+}
+
+.button_eletrico {
+    --background: rgb(251,255,0);
+    color: rgb(0, 0, 0);
+    height: 17px;
+}
+
+.tamanho_texto {
+    width: auto;
+    text-align: center;
+}
+
+.cor_texto {
+    color: white;
+}
+
+.origem_text {
+    text-align: center;
+    color: rgb(251, 255, 0);
+}
+
+.nomes {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
+.imagens_centro {
+    text-align: center;
+}
+
+.text_num_pokedex {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.cor_amarela_text {
+    color: rgb(251, 255, 0);
+    font-style: oblique;
+}
+
+.grid_center {
+    text-align: center;
+}
+
+.first_col {
+    color: white;
+}
+
+.second_col {
+    color: rgb(251, 255, 0);
+}
