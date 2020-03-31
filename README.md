@@ -15,8 +15,8 @@ Caso você deseje testar essa aplicação em seu desktop, antes devemos estabele
 4º - Dentro da pasta do repositório pelo CMD/PROMPT de o comando "npm install", espere terminar a instalção e depois verifique se aparaceu uma pasta chamada "node_modules", caso tenha aparecido a instalação foi concluida com sucesso;                                               
 5º - Ainda dentro da pasta do repositório pelo CMD/PROMPT digite o comando "ionic serve", este comando serve para colocar o seu projeto em funcionamento, espere algum tempo e se tudo for compilado com sucesso, o projeto será aberto no seu navegador padrão, com isso você verá o projeto rodando. resultado esperado:                                                                                                                                                                                                                                     ![tela inicial do projeto](https://github.com/LuigiBelanda/Ionic-Pokedex/blob/master/tela%20inicial%20do%20projeto.jpeg)                                            
 ## Construído com
-Lingaguens e Frameworks: ionic (HTML, CSS e JS)                                                                                                      
-Editor de código: VS CODE 
+Lingagens e Frameworks: Ionic (HTML, CSS e JS)                                                                                                     
+Editor de código: Visual Studio Code  
 
 
 ## Criador e avaliador 
