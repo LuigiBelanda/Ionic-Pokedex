@@ -12,13 +12,13 @@ Caso você deseje testar essa aplicação em seu desktop, antes devemos estabele
 1º - Instalar o node (https://nodejs.org/en/);                                                                                                     
 2º - Instalar o Ionic (https://ionicframework.com/docs/installation/cli);                                                                         
 3º - Baixar/clonar o repositório em seu desktop;                                                                                                                                                                                      
-4º - Dentro da pasta do repositorio pelo CMD/PROMPT de o comando "npm install", espere terminar a instalção e depois verifique se aparaceu uma pasta chamada "node_modules", caso tenha aparecido a instalação foi concluida com sucesso;                                               
+4º - Dentro da pasta do repositório pelo CMD/PROMPT de o comando "npm install", espere terminar a instalção e depois verifique se aparaceu uma pasta chamada "node_modules", caso tenha aparecido a instalação foi concluida com sucesso;                                               
 5º - Ainda dentro da pasta do repositório pelo CMD/PROMPT digite o comando "ionic serve", este comando serve para colocar o seu projeto em funcionamento, espere algum tempo e se tudo for compilado com sucesso, o projeto será aberto no seu navegador padrão, com isso você verá o projeto rodando. resultado esperado:                                                                                                                                                                                                                                     ![tela inicial do projeto](https://github.com/LuigiBelanda/Ionic-Pokedex/blob/master/tela%20inicial%20do%20projeto.jpeg)                                            
 ## Construído com
 Lingaguens e Frameworks: ionic (HTML, CSS e JS)                                                                                                      
 Editor de código: VS CODE 
 
 
-## Criador e avalaidor 
+## Criador e avaliador 
 Criador do projeto - Luigi Belanda                                                                                                        
 Avaliador do projeto - Prof. Leandro Spanghero
