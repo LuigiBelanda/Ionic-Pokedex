@@ -13,7 +13,7 @@ Caso você deseje testar essa aplicação em seu desktop, antes devemos estabele
 
 1. Instalar o node (https://nodejs.org/en/);  
 <br>          
-2. Instalar o <a src="https://ionicframework.com/docs/installation/cli">Ionic </a>;     
+2. Two Instalar o <a src="https://ionicframework.com/docs/installation/cli">Ionic </a>;     
 <br>   
 3. Baixar/clonar o repositório em seu desktop;    
 <br>                                                                                             
