@@ -11,15 +11,15 @@ Caso você deseje testar essa aplicação em seu desktop, antes devemos estabele
 
 <br>     
 
-1º - Instalar o node (https://nodejs.org/en/);  
+1. Instalar o node (https://nodejs.org/en/);  
 <br>          
-2º - Instalar o <a src="https://ionicframework.com/docs/installation/cli">Ionic </a>;     
+2. Instalar o <a src="https://ionicframework.com/docs/installation/cli">Ionic </a>;     
 <br>   
-3º - Baixar/clonar o repositório em seu desktop;    
+3. Baixar/clonar o repositório em seu desktop;    
 <br>                                                                                             
-4º - Dentro da pasta do repositório pelo CMD/PROMPT de o comando "npm install", espere terminar a instalção e depois verifique se aparaceu uma pasta chamada "node_modules", caso tenha aparecido a instalação foi concluida com sucesso;          
+4. Dentro da pasta do repositório pelo CMD/PROMPT de o comando "npm install", espere terminar a instalção e depois verifique se aparaceu uma pasta chamada "node_modules", caso tenha aparecido a instalação foi concluida com sucesso;          
 <br>             
-5º - Ainda dentro da pasta do repositório pelo CMD/PROMPT digite o comando "ionic serve", este comando serve para colocar o seu projeto em funcionamento, espere algum tempo e se tudo for compilado com sucesso, o projeto será aberto no seu navegador padrão, com isso você verá o projeto rodando. 
+5. Ainda dentro da pasta do repositório pelo CMD/PROMPT digite o comando "ionic serve", este comando serve para colocar o seu projeto em funcionamento, espere algum tempo e se tudo for compilado com sucesso, o projeto será aberto no seu navegador padrão, com isso você verá o projeto rodando. 
 
 ## Construído com
 Lingagens e Frameworks: Ionic (HTML, CSS e JS)                                                                                                     
