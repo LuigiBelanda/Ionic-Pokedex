@@ -15,7 +15,6 @@ Caso você deseje testar essa aplicação em seu desktop, antes devemos estabele
 <br>          
 2º - Instalar o <a src="https://ionicframework.com/docs/installation/cli">Ionic </a>;     
 <br>   
-<br>
 3º - Baixar/clonar o repositório em seu desktop;    
 <br>                                                                                             
 4º - Dentro da pasta do repositório pelo CMD/PROMPT de o comando "npm install", espere terminar a instalção e depois verifique se aparaceu uma pasta chamada "node_modules", caso tenha aparecido a instalação foi concluida com sucesso;          
