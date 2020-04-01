@@ -1,6 +1,6 @@
 
 # Ionic - Pokedex 
-Esse repositório é onde está guardado um dos trabalhos que fiz para uma matéria do meu curso "Programação de Aplicativos Mobile", neste trabalho o objetivo era fazer uma Pokedex com no minimo 5 pokemons, colocar informações sobre eles e por fim, colocar botões para o usuário ir para as páginas com informações do Pokemon, botões para voltar etc.
+Esse repositório é onde está guardado um dos trabalhos que fiz para uma matéria do meu curso "Programação de Aplicativos Mobile", neste trabalho o objetivo era fazer uma Pokedex com no minimo 5 Pokemons, colocar informações sobre eles e por fim, colocar botões para o usuário ir para as páginas com informações do Pokemon, botões para voltar etc.
 
 <br>   
 
@@ -34,7 +34,7 @@ Caso você deseje testar essa aplicação em seu desktop, antes devemos estabele
 ## Construído com
 Linguagens e Frameworks: Ionic (HTML, CSS e JS) 📱
 <br>   
-Editor de código: Visual Studio Code 💻  
+Editor de código: Visual Studio Code (https://code.visualstudio.com) 💻  
 
 <br>   
 
