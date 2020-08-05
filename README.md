@@ -1,6 +1,6 @@
 
 # Ionic - Pokedex 
-Esse repositório é onde está guardado um dos trabalhos que fiz para uma matéria do meu curso de Desenvolvimento de sistemas, a matéria é "Programação de Aplicativos Mobile", neste trabalho o objetivo era fazer uma Pokedex com no minimo 5 Pokemons, colocar informações sobre eles e por fim, colocar botões para o usuário ir para as páginas com informações do Pokemon, botões para voltar etc.
+Esse repositório é onde está guardado um dos trabalhos que fiz para uma matéria do curso de Desenvolvimento de sistemas que eu faço, a matéria é "Programação de Aplicativos Mobile", neste trabalho o objetivo era fazer uma Pokedex com no minimo 5 Pokemons, colocar informações sobre eles e por fim, colocar botões para o usuário ir para as páginas com informações do Pokemon, botões para voltar etc.
 
 <br>   
 
