@@ -21,7 +21,7 @@ Caso você deseje testar essa aplicação em seu desktop, antes devemos estabele
   <br>  
 <li> Baixar/clonar o repositório em seu desktop;  </li>
   <br>  
-<li> Dentro da pasta do repositório pelo CMD/PROMPT de o comando "npm install", espere terminar a instalção e depois verifique se aparaceu uma pasta chamada "node_modules", caso tenha aparecido a instalação foi concluida com sucesso;   </li>
+<li> Dentro da pasta do repositório pelo CMD/PROMPT de o comando "npm install", espere terminar a instalação e depois verifique se aparaceu uma pasta chamada "node_modules", caso tenha aparecido a instalação foi concluida com sucesso;   </li>
   <br>  
 <li> Ainda dentro da pasta do repositório pelo CMD/PROMPT digite o comando "ionic serve", este comando serve para colocar o seu projeto em funcionamento, espere algum tempo e se tudo for compilado com sucesso, o projeto será aberto no seu navegador padrão, com isso você verá o projeto rodando. Resultado esperado ao rodar a aplicação: </li>
   <br>
